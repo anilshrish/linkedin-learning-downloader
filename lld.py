@@ -120,3 +120,4 @@ if __name__ == '__main__':
                         continue
                     download_file(download_url, 'out/%s/%s' % (course_name, chapter_name), '%s. %s.mp4' %
                                   (str(vc), video_name))
+                    
