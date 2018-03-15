@@ -119,4 +119,4 @@ if __name__ == '__main__':
                         print '[!] ------ Video file already present skipping to next'
                         continue
                     download_file(download_url, 'out/%s/%s' % (course_name, chapter_name), '%s. %s.mp4' %
-                                  (str(vc), video_name))
+                                  (str(vc), video_name)) 
